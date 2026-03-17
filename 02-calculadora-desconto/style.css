@@ -109,6 +109,11 @@ button:hover {
   justify-content: center;
 }
 
+
+
+
+
+
 .resultado.cinco{
   border: 1px solid #14532d;
   box-shadow: 0 0 8px #14532d;
@@ -121,6 +126,11 @@ button:hover {
   border: 1px solid #7f1d1d;
   box-shadow: 0 0 8px #7f1d1d;
 }
+
+
+
+
+
 
 footer {
   display: flex;
