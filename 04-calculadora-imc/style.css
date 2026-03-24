@@ -111,6 +111,37 @@ button:hover {
   justify-content: center;
 }
 
+
+
+.resultado.baixo{
+  border: 1px solid #1e3a5f;
+  box-shadow: 0 0 8px #1e3a5f;
+}
+.resultado.normal{
+  border: 1px solid #14532d;
+  box-shadow: 0 0 8px #14532d;
+}
+.resultado.sobrepeso{
+  border: 1px solid #713f12;
+  box-shadow: 0 0 8px #713f12;
+}
+
+
+.resultado.grauI{
+  border: 1px solid #7f1d1d;
+  box-shadow: 0 0 8px #7f1d1d;
+}
+.resultado.grauII{
+  border: 1px solid #6b0f0f;
+  box-shadow: 0 0 8px #6b0f0f;
+}
+.resultado.grauIII{
+  border: 1px solid #450a0a;
+  box-shadow: 0 0 8px #450a0a;
+}
+
+
+
 footer {
   display: flex;
   align-items: flex-end;
